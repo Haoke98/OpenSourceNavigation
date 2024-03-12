@@ -17,7 +17,13 @@ A project just for collecting all the best open source projects in order to foun
 ### Segmentation
 |项目|开发语言|相关论文|官网|相关视频|线上体验|Stars|验证 / 证实 / 体验|
 |---|---|---|---|---|---|---|---|
-|[Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything)|Python|<a href='https://arxiv.org/pdf/2401.14159v1.pdf'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> |<a href='https://idea-research.github.io/HumanSD/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>|[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtu.be/oEQYStnF2l8)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/grounded-segment-anything-colab/blob/main/grounded-segment-anything-colab.ipynb)|![](https://img.shields.io/github/stars/IDEA-Research/Grounded-Segment-Anything.svg)||
+|[Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything)|Python|<a href='https://arxiv.org/pdf/2401.14159v1.pdf'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> |<a href='https://idea-research.github.io/Grounded-Segment-Anything/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>|[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtu.be/oEQYStnF2l8)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/grounded-segment-anything-colab/blob/main/grounded-segment-anything-colab.ipynb)|![](https://img.shields.io/github/stars/IDEA-Research/Grounded-Segment-Anything.svg)||
+
+### ObjectDetection
+|项目|开发语言|相关论文|官网|相关视频|线上体验|Stars|验证 / 证实 / 体验|
+|---|---|---|---|---|---|---|---|
+|[GroundingDINO](https://github.com/IDEA-Research/GroundingDINO)|Python, Cuda, C++|<a href='https://arxiv.org/pdf/2303.05499v4.pdf'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> |<a href='https://idea-research.github.io/GroundingDINO/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>|||![](https://img.shields.io/github/stars/IDEA-Research/GroundingDINO.svg)||
+
 
 
 ## MarkUpConverter
@@ -36,7 +42,7 @@ A project just for collecting all the best open source projects in order to foun
 ### STUN Server
 |项目|开发语言|STUN协议官方支持/维护|官网|版本|Stars|验证 / 证实 / 体验|
 |---|---|---|---|---|---|---|
-|[jselbie/stunserver](https://github.com/jselbie/stunserver)|C++,C,Roff|✅|[STUNMAN](https://www.stunprotocol.org/)|v1.2.13|![](https://img.shields.io/github/stars/jselbie/stunserver.svg)||
+|[jselbie/stunserver](https://github.com/jselbie/stunserver)|C++, C, Roff|✅|[STUNMAN](https://www.stunprotocol.org/)|v1.2.13|![](https://img.shields.io/github/stars/jselbie/stunserver.svg)||
 |[enobufs/stun](https://github.com/enobufs/stun)|JavaScript|第三方||v0.1.3|![](https://img.shields.io/github/stars/enobufs/stun.svg)||
 
 
