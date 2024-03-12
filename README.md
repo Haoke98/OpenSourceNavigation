@@ -7,6 +7,8 @@ A project just for collecting all the best open source projects in order to foun
 |---|---|---|---|---|---|---|---|
 |[Open-AnimateAnyone](https://github.com/guoqincode/Open-AnimateAnyone)|Python|<a href='https://arxiv.org/pdf/2311.17117.pdf'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>|<a href='https://humanaigc.github.io/animate-anyone/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>|[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=8PCn5hLKNu4)|[🤗HF Spaces](https://huggingface.co/spaces/xunsong/Moore-AnimateAnyone)|![](https://img.shields.io/github/stars/guoqincode/Open-AnimateAnyone.svg)|✅|
 |[Moore-AnimateAnyon](https://github.com/MooreThreads/Moore-AnimateAnyone)|Python|<a href='https://arxiv.org/pdf/2311.17117.pdf'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>|<a href='https://humanaigc.github.io/animate-anyone/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>|[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=8PCn5hLKNu4)|[🤗HF Spaces](https://huggingface.co/spaces/xunsong/Moore-AnimateAnyone)|![](https://img.shields.io/github/stars/MooreThreads/Moore-AnimateAnyone.svg)|✅|
+|[AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings)|Python|||||![](https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings.svg)||
+
 
 
 ## MarkUpConverter
