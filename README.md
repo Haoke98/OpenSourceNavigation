@@ -12,8 +12,12 @@ A project just for collecting all the best open source projects in order to foun
 ### pose2img ~ p2i
 |项目|开发语言|相关论文|官网|相关视频|线上体验|Stars|验证 / 证实 / 体验|
 |---|---|---|---|---|---|---|---|
-|[HumanSD](https://github.com/IDEA-Research/HumanSD)|Python|<a href='https://arxiv.org/pdf/2304.04269v1.pdf'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> ![Static Badge](https://img.shields.io/badge/build-ICCV2023-brightgreen?logoColor=gray&label=Paper&labelColor=yellow&color=white&link=https%3A%2F%2Fopenaccess.thecvf.com%2Fcontent%2FICCV2023%2Fpapers%2FJu_HumanSD_A_Native_Skeleton-Guided_Diffusion_Model_for_Human_Image_Generation_ICCV_2023_paper.pdf)|<a href='https://idea-research.github.io/HumanSD/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>|[GoogleDrive](https://drive.google.com/file/d/1Djc2uJS5fmKnKeBnL34FnAAm3YSH20Bb/view)|[🤗HF Spaces](https://huggingface.co/spaces/xunsong/Moore-AnimateAnyone)|![](https://img.shields.io/github/stars/IDEA-Research/HumanSD.svg)||
+|[HumanSD](https://github.com/IDEA-Research/HumanSD)|Python|<a href='https://arxiv.org/pdf/2304.04269v1.pdf'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> ![Static Badge](https://img.shields.io/badge/build-ICCV2023-brightgreen?logoColor=gray&label=Paper&labelColor=yellow&color=white&link=https%3A%2F%2Fopenaccess.thecvf.com%2Fcontent%2FICCV2023%2Fpapers%2FJu_HumanSD_A_Native_Skeleton-Guided_Diffusion_Model_for_Human_Image_Generation_ICCV_2023_paper.pdf)|<a href='https://idea-research.github.io/HumanSD/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>|[GoogleDrive](https://drive.google.com/file/d/1Djc2uJS5fmKnKeBnL34FnAAm3YSH20Bb/view)||![](https://img.shields.io/github/stars/IDEA-Research/HumanSD.svg)||
 
+### Segmentation
+|项目|开发语言|相关论文|官网|相关视频|线上体验|Stars|验证 / 证实 / 体验|
+|---|---|---|---|---|---|---|---|
+|[Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything)|Python|<a href='https://arxiv.org/pdf/2401.14159v1.pdf'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> |<a href='https://idea-research.github.io/HumanSD/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>|[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtu.be/oEQYStnF2l8)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/grounded-segment-anything-colab/blob/main/grounded-segment-anything-colab.ipynb)|![](https://img.shields.io/github/stars/IDEA-Research/Grounded-Segment-Anything.svg)||
 
 
 ## MarkUpConverter
