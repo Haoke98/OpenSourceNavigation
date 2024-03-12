@@ -14,6 +14,13 @@ A project just for collecting all the best open source projects in order to foun
 |---|---|---|---|---|---|---|---|
 |[HumanSD](https://github.com/IDEA-Research/HumanSD)|Python|<a href='https://arxiv.org/pdf/2304.04269v1.pdf'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> ![Static Badge](https://img.shields.io/badge/build-ICCV2023-brightgreen?logoColor=gray&label=Paper&labelColor=yellow&color=white&link=https%3A%2F%2Fopenaccess.thecvf.com%2Fcontent%2FICCV2023%2Fpapers%2FJu_HumanSD_A_Native_Skeleton-Guided_Diffusion_Model_for_Human_Image_Generation_ICCV_2023_paper.pdf)|<a href='https://idea-research.github.io/HumanSD/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>|[GoogleDrive](https://drive.google.com/file/d/1Djc2uJS5fmKnKeBnL34FnAAm3YSH20Bb/view)||![](https://img.shields.io/github/stars/IDEA-Research/HumanSD.svg)||
 
+### audioEditing
+
+|项目|开发语言|相关论文|官网|相关视频|线上体验|Stars|验证 / 证实 / 体验|
+|---|---|---|---|---|---|---|---|
+|[AudioEditingCode](https://github.com/HilaManor/AudioEditingCode/)|Python|<a href='https://arxiv.org/pdf/2402.10009v3.pdf'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> |<a href='https://hilamanor.github.io/AudioEditing/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>||[🤗HF Spaces](https://huggingface.co/spaces/hilamanor/audioEditing)|![](https://img.shields.io/github/stars/HilaManor/AudioEditingCode/.svg)||
+
+
 ### Segmentation
 |项目|开发语言|相关论文|官网|相关视频|线上体验|Stars|验证 / 证实 / 体验|
 |---|---|---|---|---|---|---|---|
