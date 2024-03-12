@@ -32,6 +32,12 @@ A project just for collecting all the best open source projects in order to foun
 |---|---|---|---|---|---|---|---|
 |[GroundingDINO](https://github.com/IDEA-Research/GroundingDINO)|Python, Cuda, C++|<a href='https://arxiv.org/pdf/2303.05499v4.pdf'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> |<a href='https://idea-research.github.io/GroundingDINO/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>|||![](https://img.shields.io/github/stars/IDEA-Research/GroundingDINO.svg)||
 
+### Undersanding
+#### video understanding
+|项目|开发语言|相关论文|官网|相关视频|线上体验|Stars|验证 / 证实 / 体验|
+|---|---|---|---|---|---|---|---|
+|fffiloni/soft-video-understanding|||||[🤗HF Spaces](https://huggingface.co/spaces/fffiloni/soft-video-understanding)|||
+
 
 
 ## MarkUpConverter
