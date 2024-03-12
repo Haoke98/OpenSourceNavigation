@@ -18,7 +18,7 @@ A project just for collecting all the best open source projects in order to foun
 
 |项目|开发语言|相关论文|官网|相关视频|线上体验|Stars|验证 / 证实 / 体验|
 |---|---|---|---|---|---|---|---|
-|[AudioEditingCode](https://github.com/HilaManor/AudioEditingCode/)|Python|<a href='https://arxiv.org/pdf/2402.10009v3.pdf'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> |<a href='https://hilamanor.github.io/AudioEditing/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>||[🤗HF Spaces](https://huggingface.co/spaces/hilamanor/audioEditing)|![](https://img.shields.io/github/stars/HilaManor/AudioEditingCode/.svg)||
+|[AudioEditingCode](https://github.com/HilaManor/AudioEditingCode/)|Python|<a href='https://arxiv.org/pdf/2402.10009v3.pdf'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> |<a href='https://hilamanor.github.io/AudioEditing/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>||[🤗HF Spaces](https://huggingface.co/spaces/hilamanor/audioEditing)|![](https://img.shields.io/github/stars/HilaManor/AudioEditingCode.svg)||
 
 
 ### Segmentation
