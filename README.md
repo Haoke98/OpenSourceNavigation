@@ -2,19 +2,20 @@
 A project just for collecting all the best open source projects in order to found them quickliy.
 
 ## ML & AGI
-### image2video ~ i2v
+### TextBased
+#### image2video ~ i2v
 |项目|开发语言|相关论文|官网|相关视频|线上体验|Stars|验证 / 证实 / 体验|
 |---|---|---|---|---|---|---|---|
 |[Open-AnimateAnyone](https://github.com/guoqincode/Open-AnimateAnyone)|Python|<a href='https://arxiv.org/pdf/2311.17117.pdf'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>|<a href='https://humanaigc.github.io/animate-anyone/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>|[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=8PCn5hLKNu4)|[🤗HF Spaces](https://huggingface.co/spaces/xunsong/Moore-AnimateAnyone)|![](https://img.shields.io/github/stars/guoqincode/Open-AnimateAnyone.svg)|✅|
 |[Moore-AnimateAnyon](https://github.com/MooreThreads/Moore-AnimateAnyone)|Python|<a href='https://arxiv.org/pdf/2311.17117.pdf'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>|<a href='https://humanaigc.github.io/animate-anyone/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>|[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=8PCn5hLKNu4)|[🤗HF Spaces](https://huggingface.co/spaces/xunsong/Moore-AnimateAnyone)|![](https://img.shields.io/github/stars/MooreThreads/Moore-AnimateAnyone.svg)|✅|
 |[AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings)|Python|<a href='https://arxiv.org/pdf/2303.12741v2.pdf'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>||||![](https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings.svg)||
 
-### pose2img ~ p2i
+#### pose2img ~ p2i
 |项目|开发语言|相关论文|官网|相关视频|线上体验|Stars|验证 / 证实 / 体验|
 |---|---|---|---|---|---|---|---|
 |[HumanSD](https://github.com/IDEA-Research/HumanSD)|Python|<a href='https://arxiv.org/pdf/2304.04269v1.pdf'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> ![Static Badge](https://img.shields.io/badge/build-ICCV2023-brightgreen?logoColor=gray&label=Paper&labelColor=yellow&color=white&link=https%3A%2F%2Fopenaccess.thecvf.com%2Fcontent%2FICCV2023%2Fpapers%2FJu_HumanSD_A_Native_Skeleton-Guided_Diffusion_Model_for_Human_Image_Generation_ICCV_2023_paper.pdf)|<a href='https://idea-research.github.io/HumanSD/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>|[GoogleDrive](https://drive.google.com/file/d/1Djc2uJS5fmKnKeBnL34FnAAm3YSH20Bb/view)||![](https://img.shields.io/github/stars/IDEA-Research/HumanSD.svg)||
 
-### audioEditing
+#### audioEditing
 
 |项目|开发语言|相关论文|官网|相关视频|线上体验|Stars|验证 / 证实 / 体验|
 |---|---|---|---|---|---|---|---|
