@@ -65,3 +65,5 @@ A project just for collecting all the best open source projects in order to foun
 |项目|验证 / 证实 / 体验|
 |---|---|
 |[Esp32_VoiceChat_LLMs](https://github.com/MetaWu2077/Esp32_VoiceChat_LLMs)||
+|[OpenWRT](https://openwrt.org/)||
+
