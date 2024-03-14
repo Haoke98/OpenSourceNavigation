@@ -67,3 +67,8 @@ A project just for collecting all the best open source projects in order to foun
 |[Esp32_VoiceChat_LLMs](https://github.com/MetaWu2077/Esp32_VoiceChat_LLMs)||
 |[OpenWRT](https://openwrt.org/)||
 
+
+## 数据
+|项目|说明|是否官方|验证 / 证实 / 体验|实际应用|
+|---|---|---|---|---|
+|[GeoIP](https://dev.maxmind.com/geoip/updating-databases)|IP地址和地理位置映射表,相对精确,需要定期更新|✅|✅|IP溯源/攻击溯源|
