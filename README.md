@@ -62,6 +62,7 @@ A project just for collecting all the best open source projects in order to foun
 |[JumpServer](https://github.com/jumpserver/jumpserver)|Python,CSS|✅|✅|4A|v3.10.5-lts|v3.10.5-lts|![](https://img.shields.io/github/stars/jumpserver/jumpserver.svg)|✅|
 |[gravitational/teleport](https://github.com/gravitational/teleport)|Go,JS,TS,Shell,Rust|✅| | | | | ![](https://img.shields.io/github/stars/gravitational/teleport.svg)||
 |[GateOne](https://github.com/liftoff/GateOne)|JS,Python|✅| | | | | ![](https://img.shields.io/github/stars/liftoff/GateOne.svg)||
+|[tp4a/teleport](https://github.com/tp4a/teleport)|Python,JS,C++,C|✅| | | | | ![](https://img.shields.io/github/stars/tp4a/teleport.svg)||
 |[CrazyEye](https://github.com/triaquae/CrazyEye)|C,JS,Python,Shell|| | | | | ![](https://img.shields.io/github/stars/triaquae/CrazyEye.svg)||
 
 
