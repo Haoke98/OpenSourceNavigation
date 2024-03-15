@@ -60,8 +60,10 @@ A project just for collecting all the best open source projects in order to foun
 |项目|开发语言|支持Docker|符合的审计规范|最终开源版本|当前版本|Stars|验证 / 证实 / 体验|
 |---|---|---|---|---|---|---|---|
 |[JumpServer](https://github.com/jumpserver/jumpserver)|Python,CSS|✅|4A|v3.10.5-lts|v3.10.5-lts|![](https://img.shields.io/github/stars/jumpserver/jumpserver.svg)|✅|
-|[CrazyEye](https://github.com/triaquae/CrazyEye)|C,JavaScript,Python,Shell| | | | | ![](https://img.shields.io/github/stars/triaquae/CrazyEye.svg)||
-|[GateOne](https://github.com/liftoff/GateOne)|JavaScript,Python| | | | | ![](https://img.shields.io/github/stars/liftoff/GateOne.svg)||
+|[CrazyEye](https://github.com/triaquae/CrazyEye)|C,JS,Python,Shell| | | | | ![](https://img.shields.io/github/stars/triaquae/CrazyEye.svg)||
+|[GateOne](https://github.com/liftoff/GateOne)|JS,Python| | | | | ![](https://img.shields.io/github/stars/liftoff/GateOne.svg)||
+|[gravitational/teleport](https://github.com/gravitational/teleport)|Go,JS,TS,Shell,Rust| | | | | ![](https://img.shields.io/github/stars/gravitational/teleport.svg)||
+
 
 
 ### 网络
