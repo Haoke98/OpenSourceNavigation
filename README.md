@@ -107,3 +107,4 @@ A project just for collecting all the best open source projects in order to foun
 * [peft](https://gitee.com/sadam98/peft)
 * [daydayEXP](https://github.com/bcvgh/daydayEXP) 是一个Java的POC文件来漏洞检测工具
 * [speedtest](https://github.com/bg6cq/speedtest) ipv6测速和测试网通性站点源码的中国版的Fork
+* [Pyro](https://github.com/pyro-ppl/pyro) pytorch相关的
