@@ -100,3 +100,4 @@ A project just for collecting all the best open source projects in order to foun
 
 ## 有发现,但是没有仔细研究过的项目
 * [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+* [chakra-ui](https://github.com/chakra-ui/chakra-ui)
