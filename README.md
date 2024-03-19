@@ -110,3 +110,4 @@ A project just for collecting all the best open source projects in order to foun
 * [Pyro](https://github.com/pyro-ppl/pyro) pytorch相关的
 * [Fluent.Ribbon](https://github.com/fluentribbon/Fluent.Ribbon) WPF controll like office.
 * [DeepFaceLive](https://github.com/iperov/DeepFaceLive) AI换脸相关的已经Archive仓库了.
+* [byddx](https://adamchainz.gumroad.com/l/byddx?ea-publisher=readthedocs-celery) Django相关
