@@ -102,3 +102,4 @@ A project just for collecting all the best open source projects in order to foun
 * [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
 * [chakra-ui](https://github.com/chakra-ui/chakra-ui)
 * [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)
+* [Ryujinx](https://github.com/Ryujinx/Ryujinx?tab=readme-ov-file) an switch emulator.
