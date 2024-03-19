@@ -105,3 +105,4 @@ A project just for collecting all the best open source projects in order to foun
 * [Ryujinx](https://github.com/Ryujinx/Ryujinx?tab=readme-ov-file) an switch emulator.
 * [hdbscan](https://gitee.com/sadam98/hdbscan)
 * [peft](https://gitee.com/sadam98/peft)
+* [daydayEXP](https://github.com/bcvgh/daydayEXP) 是一个Java的POC文件来漏洞检测工具
