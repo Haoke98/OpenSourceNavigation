@@ -96,3 +96,7 @@ A project just for collecting all the best open source projects in order to foun
 |项目|说明|是否官方|验证 / 证实 / 体验|实际应用|
 |---|---|---|---|---|
 |[GeoIP](https://dev.maxmind.com/geoip/updating-databases)|IP地址和地理位置映射表,相对精确,需要定期更新|✅|✅|IP溯源/攻击溯源|
+
+
+## 有发现,但是没有仔细研究过的项目
+* [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
