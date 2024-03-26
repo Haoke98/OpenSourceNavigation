@@ -98,6 +98,12 @@ A project just for collecting all the best open source projects in order to foun
 |[GeoIP](https://dev.maxmind.com/geoip/updating-databases)|IP地址和地理位置映射表,相对精确,需要定期更新|✅|✅|IP溯源/攻击溯源|
 
 
+## SQL解析
+|项目|说明|
+|---|---|
+|[sqlparse](https://github.com/andialbrecht/sqlparse)|解析,staetemnt切割,Value中的特殊字符进行转义都非常全面又好用|
+
+
 ## 有发现,但是没有仔细研究过的项目
 * [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
 * [chakra-ui](https://github.com/chakra-ui/chakra-ui)
