@@ -117,3 +117,4 @@ A project just for collecting all the best open source projects in order to foun
 * [Fluent.Ribbon](https://github.com/fluentribbon/Fluent.Ribbon) WPF controll like office.
 * [DeepFaceLive](https://github.com/iperov/DeepFaceLive) AI换脸相关的已经Archive仓库了.
 * [byddx](https://adamchainz.gumroad.com/l/byddx?ea-publisher=readthedocs-celery) Django相关
+* [django-polymorphic](https://github.com/jazzband/django-polymorphic) 为模型提供了多态功能.
