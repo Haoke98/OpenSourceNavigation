@@ -38,9 +38,9 @@ A project just for collecting all the best open source projects in order to foun
 |[Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything)|Python|<a href='https://arxiv.org/pdf/2401.14159v1.pdf'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> |<a href='https://idea-research.github.io/Grounded-Segment-Anything/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>|[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtu.be/oEQYStnF2l8)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/grounded-segment-anything-colab/blob/main/grounded-segment-anything-colab.ipynb)|![](https://img.shields.io/github/stars/IDEA-Research/Grounded-Segment-Anything.svg)||
 
 ### ObjectDetection
-|项目|开发语言|相关论文|官网|相关视频|线上体验|Stars|验证 / 证实 / 体验|
-|---|---|---|---|---|---|---|---|
-|[GroundingDINO](https://github.com/IDEA-Research/GroundingDINO)|Python, Cuda, C++|<a href='https://arxiv.org/pdf/2303.05499v4.pdf'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> |<a href='https://idea-research.github.io/GroundingDINO/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>|||![](https://img.shields.io/github/stars/IDEA-Research/GroundingDINO.svg)||
+| 项目                                                              | 开发语言              | 相关论文                                                                                                          | 官网                                                                                                                       | 相关视频 | 线上体验 | Stars                                                                    | 验证 / 证实 / 体验 |
+|-----------------------------------------------------------------|-------------------|---------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|------|------|--------------------------------------------------------------------------|--------------|
+| [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO) | Python, Cuda, C++ | <a href='https://arxiv.org/pdf/2303.05499v4.pdf'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> | <a href='https://idea-research.github.io/GroundingDINO/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> |      |      | ![](https://img.shields.io/github/stars/IDEA-Research/GroundingDINO.svg) |              |
 
 ### Undersanding
 #### video understanding
@@ -57,25 +57,27 @@ A project just for collecting all the best open source projects in order to foun
 
 ## 运维
 ### 堡垒机
-|项目|开发语言|GUI|支持Docker|符合的审计规范|最终开源版本|当前版本|Stars|验证 / 证实 / 体验|
-|---|---|---|---|---|---|---|---|---|
-|[JumpServer](https://github.com/jumpserver/jumpserver)|Python,CSS|✅|✅|4A|v3.10.5-lts|v3.10.5-lts|![](https://img.shields.io/github/stars/jumpserver/jumpserver.svg)|✅|
-|[gravitational/teleport](https://github.com/gravitational/teleport)|Go,JS,TS,Shell,Rust|✅| | | | | ![](https://img.shields.io/github/stars/gravitational/teleport.svg)||
-|[GateOne](https://github.com/liftoff/GateOne)|JS,Python|✅| | | | | ![](https://img.shields.io/github/stars/liftoff/GateOne.svg)||
-|[tp4a/teleport](https://github.com/tp4a/teleport)|Python,JS,C++,C|✅| | | | | ![](https://img.shields.io/github/stars/tp4a/teleport.svg)||
-|[CrazyEye](https://github.com/triaquae/CrazyEye)|C,JS,Python,Shell|| | | | | ![](https://img.shields.io/github/stars/triaquae/CrazyEye.svg)||
+| 项目                                                                  | 开发语言                | GUI | 支持Docker | 符合的审计规范 | 最终开源版本      | 当前版本        | Stars                                                               | 验证 / 证实 / 体验 |
+|---------------------------------------------------------------------|---------------------|-----|----------|---------|-------------|-------------|---------------------------------------------------------------------|--------------|
+| [JumpServer](https://github.com/jumpserver/jumpserver)              | Python,CSS          | ✅   | ✅        | 4A      | v3.10.5-lts | v3.10.5-lts | ![](https://img.shields.io/github/stars/jumpserver/jumpserver.svg)  | ✅            |
+| [gravitational/teleport](https://github.com/gravitational/teleport) | Go,JS,TS,Shell,Rust | ✅   |          |         |             |             | ![](https://img.shields.io/github/stars/gravitational/teleport.svg) |              |
+| [GateOne](https://github.com/liftoff/GateOne)                       | JS,Python           | ✅   |          |         |             |             | ![](https://img.shields.io/github/stars/liftoff/GateOne.svg)        |              |
+| [tp4a/teleport](https://github.com/tp4a/teleport)                   | Python,JS,C++,C     | ✅   |          |         |             |             | ![](https://img.shields.io/github/stars/tp4a/teleport.svg)          |              |
+| [CrazyEye](https://github.com/triaquae/CrazyEye)                    | C,JS,Python,Shell   |     |          |         |             |             | ![](https://img.shields.io/github/stars/triaquae/CrazyEye.svg)      |              |
 
+### 态势感知
+* [hacklcx / HFish](https://github.com/hacklcx/HFish?tab=readme-ov-file)
 
 
 
 
 ### 网络
 #### 内网穿透工具
-|项目|开发语言|端口转发(TCP/UDP)(ipv6/ipv4)|ipv4 stun内网穿透|其他功能|支持Docker|最终开源版本|当前版本|Stars|验证 / 证实 / 体验|
-|---|---|---|---|---|---|---|---|---|---|
-|[lucky](https://github.com/gdy666/lucky)|Go|✅|✅|反向代理,DDNS,WOL,cron,acme,阿里云盘,ftp,webdav,filebrowser|✅|v1.4.10|v2.7.2|![](https://img.shields.io/github/stars/gdy666/lucky.svg)|✅|✅|
-|[Natter](https://github.com/MikeWang000000/Natter)|Python|✅|✅||✅|||![](https://img.shields.io/github/stars/MikeWang000000/Natter.svg)||
-|[NATMap](https://github.com/heiher/natmap)|C|✅|✅||❌|20240303|20240303|![](https://img.shields.io/github/stars/heiher/natmap.svg)||
+| 项目                                                 | 开发语言   | 端口转发(TCP/UDP)(ipv6/ipv4) | ipv4 stun内网穿透 | 其他功能                                                | 支持Docker | 最终开源版本   | 当前版本     | Stars                                                              | 验证 / 证实 / 体验 |
+|----------------------------------------------------|--------|--------------------------|---------------|-----------------------------------------------------|----------|----------|----------|--------------------------------------------------------------------|--------------|
+| [lucky](https://github.com/gdy666/lucky)           | Go     | ✅                        | ✅             | 反向代理,DDNS,WOL,cron,acme,阿里云盘,ftp,webdav,filebrowser | ✅        | v1.4.10  | v2.7.2   | ![](https://img.shields.io/github/stars/gdy666/lucky.svg)          | ✅            |✅|
+| [Natter](https://github.com/MikeWang000000/Natter) | Python | ✅                        | ✅             |                                                     | ✅        |          |          | ![](https://img.shields.io/github/stars/MikeWang000000/Natter.svg) |              |
+| [NATMap](https://github.com/heiher/natmap)         | C      | ✅                        | ✅             |                                                     | ❌        | 20240303 | 20240303 | ![](https://img.shields.io/github/stars/heiher/natmap.svg)         |              |
 
 #### STUN Server
 |项目|开发语言|STUN协议官方支持/维护|官网|版本|Stars|验证 / 证实 / 体验|
