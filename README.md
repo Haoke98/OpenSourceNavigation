@@ -99,6 +99,10 @@ A project just for collecting all the best open source projects in order to foun
 |---|---|
 |[miroslavpejic85/p2p](https://github.com/miroslavpejic85/p2p)|C#|
 
+#### 直播软件 / 实时屏幕共享
+|项目|官网|
+|---|---|
+|[OBS Studio](https://github.com/obsproject/obs-studio)|[官网](https://obsproject.com/)|
 
 ## 硬件
 
