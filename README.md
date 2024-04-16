@@ -149,3 +149,4 @@ A project just for collecting all the best open source projects in order to foun
 * [django-guardian](https://github.com/django-guardian/django-guardian) 为Django提供了细粒度权限控制,尤其对CMS中起很大的作用.
 * [Fabric](https://github.com/danielmiessler/fabric?tab=readme-ov-file) AI相关
 * [DeOSS](https://github.com/CESSProject/DeOSS)
+* [一个图床Demo](http://v2.picture.itchenliang.club/#/login)
