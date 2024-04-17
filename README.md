@@ -150,3 +150,6 @@ A project just for collecting all the best open source projects in order to foun
 * [Fabric](https://github.com/danielmiessler/fabric?tab=readme-ov-file) AI相关
 * [DeOSS](https://github.com/CESSProject/DeOSS)
 * [一个图床Demo](http://v2.picture.itchenliang.club/#/login)
+* [一个网盘云盘综合性的油猴脚本](https://github.com/tampermonkeyStorage/Self-use) 网盘云盘脚本 资源搜索、视频播放、音频播放 支持百度 蓝奏 天翼 迅雷 阿里 夸克 123pan 等
+* [在稚晖君的夸克(quark)迷你小电脑Atom-N上安装Openwrt](https://github.com/kingo132/quark-n-openwrt.git)
+* [OpenGFW](https://github.com/apernet/OpenGFW?tab=readme-ov-file) is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux. OpenGFW is your very own DIY Great Firewall of China (https://en.wikipedia.org/wiki/Great_Firewall), available as a flexible, easy-to-use open source program on Linux. Why let the powers that be have all the fun? It's time to give power to the people and democratize censorship. Bring the thrill of cyber-sovereignty right into your home router and start filtering like a pro - you too can play Big Brother.
